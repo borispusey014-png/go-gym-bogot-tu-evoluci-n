@@ -14,7 +14,7 @@ import {
   Navigation,
 } from "lucide-react";
 
-import logo from "@/assets/gogym-logo.png.asset.json";
+import logo from "@/assets/gogym-logo-header.jpg.asset.json";
 import heroImg from "@/assets/hero-gym.jpg";
 import aboutImg from "@/assets/about-gym.jpg";
 
